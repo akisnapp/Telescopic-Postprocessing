@@ -1,6 +1,6 @@
 ﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-// Aaron Lanterman, July 22, 2021
+// Modified from source code from Unity and from Dr. Aaron Lanterman, July 22, 2021
 // Modified example from https://github.com/Unity-Technologies/PostProcessing/wiki/Writing-Custom-Effects
 
 Shader "Hidden/Custom/AlexanderSnappStackShader"
