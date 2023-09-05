@@ -1,4 +1,4 @@
-﻿// Aaron Lanterman, July 22, 2021
+﻿// Modified from source code from Unity and from Dr. Aaron Lanterman, July 22, 2021
 // Modified example from https://github.com/Unity-Technologies/PostProcessing/wiki/Writing-Custom-Effects
 
 using System;
