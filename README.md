@@ -1,4 +1,4 @@
 # Telescopic-Postprocessing
 This demo uses the post processing effect named Alexander Snapp stack in order to create a unfocused telescope effect which incorporates depth based blur which increases towards the center of objects and has a mildly blurred outline along the edges of objects in the frame. It also incorporates a 'circular view point' meant to simulate the effect of looking through a telescope. It also uses the position of pixels in the screen to give the telescope a slight focus increase towards the circular view point center which is used alongside the depth based blur and the outliner.
 
-If you would like to download the package for use in your own code, please download Alexander_Snapp.unitypackage , if you would like to just view the code from within github, please look at the folder named
+If you would like to download the package for use in your own code, please download Alexander_Snapp.unitypackage , if you would like to just view the code from within github, please look at the folder named Shaders and Support.
